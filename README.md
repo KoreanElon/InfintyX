@@ -1,1 +1,1 @@
-# InfintyX
+# InfinityX
